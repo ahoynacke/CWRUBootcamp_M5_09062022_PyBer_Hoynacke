@@ -58,5 +58,5 @@ V. Isualize has given me a brand-new assignment. Using my Python skills and know
 #### Statement summarizing three business recommendations to the CEO for addressing any disparities among the city types
 
  1. Opportunity to expand the ride share bussiness in rural and suburban areas. 
- 2. More attention needs to be given to the rural area. Promotions should be considered to encourage rides to use ride share in rural areas 
- 3. Urban riders are consistently riding and is the biggest demographic using ride sharing. It is clearly a high demand service meaning that fares could     rise without losing demand and more drivers can be hired. 
+ 2. More attention needs to be given to the rural area. Promotions should be considered to encourage riders to use ride share in rural areas.
+ 3. Urban riders are consistently riding and is the biggest demographic using ride sharing. It is clearly a high demand service meaning that fares could     rise without losing customers and more drivers can be hired. 
